@@ -1,5 +1,5 @@
 import { ArrowRight } from 'lucide-react';
-import heroImage from '../assets/hero_image copy.png';
+import heroImage from '../assets/hero_image.png';
 import ctaBackground from '../assets/artictic_backgournd.jpg';
 import icon1 from '../assets/b_1.png';
 import icon2 from '../assets/b_2png.png';
